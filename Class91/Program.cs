@@ -9,7 +9,7 @@
 //double w = double.Parse(Console.ReadLine()!);
 //Console.Write("Введите ширину:");
 //double s = double.Parse(Console.ReadLine()!);
-//Parallelepiped par = new Parallelepiped(w, h, s);
+//Parallelepiped par = new Parallelepiped(h, w, s);
 //par.Print();
 //class Parallelepiped
 //{
